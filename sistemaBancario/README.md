@@ -15,8 +15,8 @@ Este projeto foi desenvolvido como parte dos meus estudos em Java para consolida
 - **Lógica de Negócio:** Centralização das regras de taxas dentro da própria entidade.
 
 ## Estrutura do Projeto
-- `src/entities/Conta.java`: Classe que contém os atributos, construtores e a lógica de negócio.
-- `src/application/Program.java`: Classe principal que gerencia a entrada de dados via console e a interação com o usuário.
+- `src/entities/conta.java`: Classe que contém os atributos, construtores e a lógica de negócio.
+- `src/application/sistema.java`: Classe principal que gerencia a entrada de dados via console e a interação com o usuário.
 
 ## Tecnologias
 - **Java 25** (JDK)
