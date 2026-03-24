@@ -1,0 +1,19 @@
+# Ignorar pastas de binários e compilação
+bin/
+target/
+out/
+
+# Ignorar arquivos de configuração da IDE (Eclipse/VS Code)
+.settings/
+.classpath
+.project
+.factorypath
+.vscode/
+
+# Ignorar arquivos compilados individuais
+*.class
+
+# Ignorar arquivos temporários do sistema
+Thumbs.db
+.DS_Store
+.metadata/
